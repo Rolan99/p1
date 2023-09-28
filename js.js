@@ -8,7 +8,7 @@ const btnNav = document.getElementsByClassName("btn-nav")[0]
 const nav = document.getElementsByClassName("nav")[0]
 
 const eye = document.getElementsByClassName("eye")[0]
-
+/* hi */
 user.addEventListener("focus", () => {
     userName.classList.add("focus")
 })
